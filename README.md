@@ -9,7 +9,7 @@
 
 I'm passionate about data and the endless possibilities it offers for discovery and impact. I thrive on exploring datasets, uncovering hidden patterns, and transforming raw information into meaningful insights that drive real-world results. Currently pursuing my Master's in Applied Data Science while developing practical projects that solve genuine business challenges.
 
-My approach involves experimenting with diverse datasets across multiple sectors—from financial markets to healthcare, energy systems to social behavior—allowing me to discover which domains resonate most with my analytical interests and where I can create the greatest impact. Through this cross-sector exploration, I'm building a versatile skill set while identifying the types of data and problems that truly excite me as a data professional.
+My approach involves experimenting with diverse datasets across multiple sectors from financial markets to healthcare, energy systems to social behavior allowing me to discover which domains resonate most with my analytical interests and where I can create the greatest impact. Through this cross-sector exploration, I'm building a versatile skill set while identifying the types of data and problems that truly excite me as a data professional.
 
 ---
 
