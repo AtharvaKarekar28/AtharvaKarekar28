@@ -118,15 +118,11 @@ Interactive Power BI dashboard analyzing financial performance across US hospita
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AtharvaKarekar28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Atharva's GitHub Stats" />
-
-</div>
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaKarekar28&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+[![Atharva's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AtharvaKarekar28&theme=tokyo-night&hide_border=true)](https://github.com/AtharvaKarekar28)
 
 </div>
 
