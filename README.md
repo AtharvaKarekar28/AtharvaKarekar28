@@ -116,8 +116,6 @@ Interactive Power BI dashboard analyzing financial performance across US hospita
 
 ---
 
-## 📊 GitHub Stats
-
 ## 📊 GitHub Activity
 
 <div align="center">
