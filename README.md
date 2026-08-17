@@ -120,7 +120,9 @@ Interactive Power BI dashboard analyzing financial performance across US hospita
 
 <div align="center">
 
-[![Atharva's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AtharvaKarekar28&theme=tokyo-night&hide_border=true)](https://github.com/AtharvaKarekar28)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Data%20Science%20%7C%20Analytics-brightgreen?style=for-the-badge&logo=handshake&logoColor=white)
+
+![Currently Learning](https://img.shields.io/badge/Currently%20Learning-Deep%20Learning%20%7C%20MLOps-blue?style=for-the-badge&logo=bookstack&logoColor=white)
 
 </div>
 
