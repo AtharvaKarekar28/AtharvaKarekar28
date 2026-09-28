@@ -127,17 +127,6 @@ Interactive Power BI dashboard analyzing financial performance across US hospita
 </div>
 
 ---
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-![Snake animation](https://github.com/AtharvaKarekar28/AtharvaKarekar28/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
 ## 💼 Experience
 
 **Application Support Analyst** | Extrieve Technologies (HDFC Bank) | May 2024 – Sep 2024
