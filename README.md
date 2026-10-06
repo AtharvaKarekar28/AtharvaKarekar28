@@ -16,7 +16,7 @@ Data analyst with an M.S. in Applied Data Science and a Computer Engineering bac
 - 🏥 Currently building **healthcare analytics ML projects** using CMS hospital data
 - 📉 Led a **Lean Six Sigma DMAIC** project cutting cycle time by 53.7% (p=0.011)
 - 🔍 Exploring datasets across **finance, healthcare, manufacturing, and telecom**
-- 💼 Seeking **data science and analytics internship** opportunities (CPT/OPT Eligible)
+- 💼 Seeking **data science and analytics Fulltime** opportunities (CPT/OPT Eligible)
 - 📍 Based in **Syracuse, NY**
 
 ---
@@ -63,7 +63,6 @@ End-to-end ML pipeline predicting uncompensated care costs across US hospitals u
 - 💡 Engineered feature became **#1 predictor**
 - 🌐 Live Streamlit prediction app deployed
 
-**[View Project →](https://github.com/AtharvaKarekar28/hospital-financial-risk-analysis)**
 
 </td>
 <td width="50%" valign="top">
